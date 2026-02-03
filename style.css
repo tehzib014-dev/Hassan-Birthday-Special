@@ -28,7 +28,7 @@ body {
   gap: 15px;
   max-width: 1200px;
   padding: 10px 20px;
-  max-width: 100vw;
+  /* max-width: 100vw; */
   /* height: 100vh; */
   margin: 0 auto;
   transition: transform 0.3s ease;
@@ -159,7 +159,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50vh;
+  /* width: 50vh; */
   height: 90vh;
   object-fit: cover;
   overflow: hidden;
